@@ -2,7 +2,7 @@
 
 This is a required task that is about how to install ROS on Jetson Nano
 
-The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project. And it's all open source.
+The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project. And it's all open source.<br>
 [![ROS Melodic](http://www.ros.org/news/2018/04/16/melodic_logo.jpg "ROS Melodic")](http://www.ros.org/news/2018/04/16/melodic_logo.jpg "ROS Melodic")
 
 Jetson Nano is a small, powerful computer for embedded applications and AI IoT that delivers the power of modern AI
